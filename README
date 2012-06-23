@@ -1,0 +1,15 @@
+Runs a gtalk bot based on PygtalkRobot.
+
+http://code.google.com/p/pygtalkrobot/
+
+PyGtalkRobot is an open source python gtalk bot framework using XMPPPY library referencing the source code of python-jabberbot
+
+As a first step, i implemented a few functionalities to test it out:
+- currency converter
+- weather retriever
+- easy arithmetics
+- retrieves youtube video info
+- sends email
+
+TODO
+- implement an embedded twitter bot in the gtalkbot
